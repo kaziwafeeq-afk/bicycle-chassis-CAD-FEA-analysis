@@ -48,6 +48,6 @@ A comprehensive structural design and implicit static analysis of a bicycle chas
 
 ---
 
-## Repository Structure
-* `Bicycle Report.pdf`: Contains the complete engineering project report PDF.
+## Documentation & Repository Structure
+* **[Download & View Full Engineering Report (PDF)](./Bicycle%20Report.pdf)**: Click here to open or download the complete project report.
 * `CAD.png`, `Stress.png`, `Displacement.png`: Visual assets and FEA contour plots.
