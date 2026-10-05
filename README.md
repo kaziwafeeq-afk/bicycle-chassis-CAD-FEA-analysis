@@ -35,6 +35,19 @@ A comprehensive structural design and implicit static analysis of a bicycle chas
 
 ---
 
+## Project Visuals
+
+### CAD Model Render
+![CAD Model](./CAD.png)
+
+### Stress Analysis (von Mises)
+![Stress Contour](./Stress.png)
+
+### Displacement Analysis
+![Displacement Contour](./Displacement.png)
+
+---
+
 ## Repository Structure
-* `reports/`: Contains the complete engineering project report PDF.
-* `images/`: Contains contour plots, stress analysis visuals, and CAD renders.
+* `Bicycle Report.pdf`: Contains the complete engineering project report PDF.
+* `CAD.png`, `Stress.png`, `Displacement.png`: Visual assets and FEA contour plots.
